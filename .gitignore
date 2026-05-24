@@ -93,3 +93,4 @@ tests/test_carina_*.py
 claudedocs/
 .vnx-intelligence/
 *.tsbuildinfo
+.venv-whisper/
